@@ -1,0 +1,29 @@
+{
+  "name": "railwaycommoditysystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "author": "akd",
+  "license": "ISC",
+  "dependencies": {
+    "alert": "^5.0.10",
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-partials": "^0.3.0",
+    "expressjs": "^1.0.1",
+    "hbs": "^4.1.1",
+    "localStorage": "^1.0.4",
+    "module": "^1.2.5",
+    "mongoose": "^5.12.3",
+    "nodemon": "^2.0.7",
+    "popups": "^1.1.3"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  }
+}
